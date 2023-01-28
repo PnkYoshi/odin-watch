@@ -1,0 +1,20 @@
+
+
+.price {
+    color:aqua;
+    background-color: beige;    
+}
+.prices {
+    color:black;
+    background-color: whitesmoke;
+}
+#prices{
+    color: red;
+    background-color: rgba(67, 177, 192, 0.774);
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    text-align:center;
+}
